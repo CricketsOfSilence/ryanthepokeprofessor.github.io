@@ -1,3 +1,1 @@
-<object data="The_Deck_Checker_Checklist.pdf" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support PDFs. <a href="yourfile.pdf">Download PDF instead</a>.</p>
-</object>
+<iframe src="./The_Deck_Checker_Checklist.pdf" width="100%" height="600px"></iframe>
